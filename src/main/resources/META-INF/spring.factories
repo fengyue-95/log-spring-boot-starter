@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.fengyue95.logspringbootstarter.configuration.MethodParamLogAutoConfiguration,\
+com.fengyue95.logspringbootstarter.configuration.PlaceholderLogAutoConfiguration
